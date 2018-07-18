@@ -1,0 +1,6 @@
+framework module Pods_X_Mode {
+  umbrella header "Pods-X-Mode-umbrella.h"
+
+  export *
+  module * { export * }
+}

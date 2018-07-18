@@ -1,0 +1,16 @@
+PODS:
+  - SwiftWebSocket (2.7.0)
+
+DEPENDENCIES:
+  - SwiftWebSocket
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftWebSocket
+
+SPEC CHECKSUMS:
+  SwiftWebSocket: 612c9729fd503cb6b0b8b45390c788686dac306f
+
+PODFILE CHECKSUM: 5d6dffc6afa691ee1af36a734c99a4670cf0a93d
+
+COCOAPODS: 1.5.3
